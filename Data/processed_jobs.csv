@@ -1,0 +1,51 @@
+Job Title,Company,Location,Skills,Experience,Salary,Date Posted,Experience Years,Salary Category,Seniority,Data Wrangling,Deep Learning,Excel,Machine Learning,Numpy,Pandas,Power Bi,Python,R,Sql,Tableau
+Data Scientist,Amazon,Mumbai,"['Tableau', 'Excel', 'R']",6,1,Posted 9 days ago,6.0,Low,Mid-Level,0,0,1,0,0,0,0,0,1,0,1
+Data Scientist,Google,Chennai,"['Data Wrangling', 'Pandas', 'Numpy']",6,1,Posted 13 days ago,6.0,Low,Mid-Level,1,0,0,0,1,1,0,0,0,0,0
+Data Scientist,Flipkart,Chennai,"['Machine Learning', 'Deep Learning']",9,9,Posted 7 days ago,9.0,High,Senior,0,1,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,Infosys,Pune,"['Machine Learning', 'Deep Learning']",4,1,Posted 5 days ago,4.0,Low,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,Deloitte,Pune,"['Python', 'Sql', 'Power Bi']",3,6,Posted 9 days ago,3.0,High,Junior,0,0,0,0,0,0,1,1,0,1,0
+Senior Data Analyst,Deloitte,Chennai,"['Data Wrangling', 'Pandas', 'Numpy']",1,2,Posted 7 days ago,1.0,Medium,Junior,1,0,0,0,1,1,0,0,0,0,0
+Senior Data Analyst,Google,Delhi,"['Python', 'Sql', 'Power Bi']",5,1,Posted 5 days ago,5.0,Low,Mid-Level,0,0,0,0,0,0,1,1,0,1,0
+Data Scientist,Flipkart,Mumbai,"['Data Wrangling', 'Pandas', 'Numpy']",3,1,Posted 11 days ago,3.0,Low,Junior,1,0,0,0,1,1,0,0,0,0,0
+Machine Learning Engineer,Deloitte,Hyderabad,"['Python', 'Sql', 'Power Bi']",1,1,Posted 12 days ago,1.0,Low,Junior,0,0,0,0,0,0,1,1,0,1,0
+Senior Data Analyst,Tcs,Bangalore,"['Data Wrangling', 'Pandas', 'Numpy']",9,1,Posted 11 days ago,9.0,Low,Senior,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,Wipro,Hyderabad,"['Data Wrangling', 'Pandas', 'Numpy']",9,6,Posted 1 days ago,9.0,High,Senior,1,0,0,0,1,1,0,0,0,0,0
+Senior Data Analyst,Google,Pune,"['Machine Learning', 'Deep Learning']",1,2,Posted 2 days ago,1.0,Medium,Junior,0,1,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,Tcs,Hyderabad,"['Data Wrangling', 'Pandas', 'Numpy']",6,1,Posted 11 days ago,6.0,Low,Mid-Level,1,0,0,0,1,1,0,0,0,0,0
+Data Scientist,Infosys,Delhi,"['Python', 'Sql', 'Power Bi']",2,1,Posted 6 days ago,2.0,Low,Junior,0,0,0,0,0,0,1,1,0,1,0
+Senior Data Analyst,Wipro,Delhi,"['Tableau', 'Excel', 'R']",3,2,Posted 9 days ago,3.0,Medium,Junior,0,0,1,0,0,0,0,0,1,0,1
+Data Scientist,Google,Pune,"['Machine Learning', 'Deep Learning']",5,1,Posted 14 days ago,5.0,Low,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,Google,Chennai,"['Tableau', 'Excel', 'R']",6,8,Posted 12 days ago,6.0,High,Mid-Level,0,0,1,0,0,0,0,0,1,0,1
+Data Analyst,Amazon,Chennai,"['Python', 'Sql', 'Power Bi']",2,2,Posted 14 days ago,2.0,Medium,Junior,0,0,0,0,0,0,1,1,0,1,0
+Data Analyst,Google,Bangalore,"['Machine Learning', 'Deep Learning']",5,1,Posted 3 days ago,5.0,Low,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Data Analyst,Amazon,Mumbai,"['Machine Learning', 'Deep Learning']",5,9,Posted 4 days ago,5.0,High,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Data Analyst,Infosys,Delhi,"['Data Wrangling', 'Pandas', 'Numpy']",1,1,Posted 6 days ago,1.0,Low,Junior,1,0,0,0,1,1,0,0,0,0,0
+Data Scientist,Flipkart,Bangalore,"['Tableau', 'Excel', 'R']",8,1,Posted 8 days ago,8.0,Low,Senior,0,0,1,0,0,0,0,0,1,0,1
+Senior Data Analyst,Deloitte,Mumbai,"['Python', 'Sql', 'Power Bi']",1,7,Posted 10 days ago,1.0,High,Junior,0,0,0,0,0,0,1,1,0,1,0
+Data Analyst,Infosys,Chennai,"['Data Wrangling', 'Pandas', 'Numpy']",1,2,Posted 4 days ago,1.0,Medium,Junior,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,Tcs,Chennai,"['Python', 'Sql', 'Power Bi']",8,1,Posted 13 days ago,8.0,Low,Senior,0,0,0,0,0,0,1,1,0,1,0
+Data Scientist,Flipkart,Mumbai,"['Python', 'Sql', 'Power Bi']",1,7,Posted 6 days ago,1.0,High,Junior,0,0,0,0,0,0,1,1,0,1,0
+Senior Data Analyst,Google,Delhi,"['Tableau', 'Excel', 'R']",6,1,Posted 3 days ago,6.0,Low,Mid-Level,0,0,1,0,0,0,0,0,1,0,1
+Data Analyst,Infosys,Bangalore,"['Data Wrangling', 'Pandas', 'Numpy']",3,2,Posted 8 days ago,3.0,Medium,Junior,1,0,0,0,1,1,0,0,0,0,0
+Data Scientist,Wipro,Delhi,"['Data Wrangling', 'Pandas', 'Numpy']",7,1,Posted 12 days ago,7.0,Low,Mid-Level,1,0,0,0,1,1,0,0,0,0,0
+Senior Data Analyst,Deloitte,Mumbai,"['Tableau', 'Excel', 'R']",9,1,Posted 1 days ago,9.0,Low,Senior,0,0,1,0,0,0,0,0,1,0,1
+Machine Learning Engineer,Google,Delhi,"['Python', 'Sql', 'Power Bi']",10,1,Posted 10 days ago,10.0,Low,Senior,0,0,0,0,0,0,1,1,0,1,0
+Data Analyst,Infosys,Pune,"['Python', 'Sql', 'Power Bi']",10,2,Posted 5 days ago,10.0,Medium,Senior,0,0,0,0,0,0,1,1,0,1,0
+Machine Learning Engineer,Flipkart,Hyderabad,"['Data Wrangling', 'Pandas', 'Numpy']",9,1,Posted 12 days ago,9.0,Low,Senior,1,0,0,0,1,1,0,0,0,0,0
+Machine Learning Engineer,Flipkart,Pune,"['Data Wrangling', 'Pandas', 'Numpy']",1,1,Posted 8 days ago,1.0,Low,Junior,1,0,0,0,1,1,0,0,0,0,0
+Data Analyst,Amazon,Delhi,"['Python', 'Sql', 'Power Bi']",5,1,Posted 13 days ago,5.0,Low,Mid-Level,0,0,0,0,0,0,1,1,0,1,0
+Machine Learning Engineer,Wipro,Delhi,"['Machine Learning', 'Deep Learning']",8,6,Posted 3 days ago,8.0,High,Senior,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,Flipkart,Hyderabad,"['Machine Learning', 'Deep Learning']",9,1,Posted 9 days ago,9.0,Low,Senior,0,1,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,Infosys,Mumbai,"['Machine Learning', 'Deep Learning']",10,6,Posted 5 days ago,10.0,High,Senior,0,1,0,1,0,0,0,0,0,0,0
+Data Analyst,Tcs,Bangalore,"['Data Wrangling', 'Pandas', 'Numpy']",9,1,Posted 1 days ago,9.0,Low,Senior,1,0,0,0,1,1,0,0,0,0,0
+Data Scientist,Google,Chennai,"['Machine Learning', 'Deep Learning']",7,2,Posted 8 days ago,7.0,Medium,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Senior Data Analyst,Wipro,Chennai,"['Data Wrangling', 'Pandas', 'Numpy']",4,1,Posted 13 days ago,4.0,Low,Mid-Level,1,0,0,0,1,1,0,0,0,0,0
+Data Scientist,Flipkart,Hyderabad,"['Machine Learning', 'Deep Learning']",5,1,Posted 7 days ago,5.0,Low,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Data Analyst,Deloitte,Hyderabad,"['Machine Learning', 'Deep Learning']",2,2,Posted 13 days ago,2.0,Medium,Junior,0,1,0,1,0,0,0,0,0,0,0
+Data Analyst,Deloitte,Delhi,"['Machine Learning', 'Deep Learning']",5,8,Posted 1 days ago,5.0,High,Mid-Level,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,Amazon,Pune,"['Python', 'Sql', 'Power Bi']",6,1,Posted 3 days ago,6.0,Low,Mid-Level,0,0,0,0,0,0,1,1,0,1,0
+Machine Learning Engineer,Infosys,Bangalore,"['Python', 'Sql', 'Power Bi']",7,1,Posted 12 days ago,7.0,Low,Mid-Level,0,0,0,0,0,0,1,1,0,1,0
+Data Analyst,Deloitte,Chennai,"['Tableau', 'Excel', 'R']",10,1,Posted 6 days ago,10.0,Low,Senior,0,0,1,0,0,0,0,0,1,0,1
+Senior Data Analyst,Infosys,Bangalore,"['Tableau', 'Excel', 'R']",10,2,Posted 9 days ago,10.0,Medium,Senior,0,0,1,0,0,0,0,0,1,0,1
+Senior Data Analyst,Tcs,Bangalore,"['Tableau', 'Excel', 'R']",2,1,Posted 12 days ago,2.0,Low,Junior,0,0,1,0,0,0,0,0,1,0,1
+Senior Data Analyst,Amazon,Pune,"['Python', 'Sql', 'Power Bi']",5,1,Posted 9 days ago,5.0,Low,Mid-Level,0,0,0,0,0,0,1,1,0,1,0
