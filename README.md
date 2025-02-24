@@ -93,7 +93,7 @@ Job-Market-Trends-Analysis/
 📌 **Bangalore has fewer job postings in this dataset, which may indicate niche hiring trends.**  
 
 📊 **Figure:**
-![Salary Distribution by Seniority](</Assets/5. Job Locations.png>)
+![Job Locations](</Assets/5. Job Locations.png>)
 
 ---
 
@@ -110,7 +110,8 @@ Job-Market-Trends-Analysis/
 ✅ **Data Scientists and ML Engineers earn similar salaries.**  
 ✅ **Python & SQL are equally in demand.**  
 
-📊 **[See Boxplots, Histograms, and Regression Plots → `/reports/`]**  
+📊 **Figure:**
+![A/B Testing on Job Salaries](</Assets/9. AB Testing on Job Salaries.png>)
 
 ---
 
